@@ -1,0 +1,105 @@
+.taikhoan {
+  left: 259px;
+  position: absolute;
+  bottom: 2px;
+  }
+  .dangnhap {
+    width: 300px;
+    height: 320px;
+    border: 2px solid cyan;
+    border-radius: 23px;
+    text-align: center;
+  }
+  .dangnhap h2 {
+    color: #868787;
+    font-family: sans-serif;
+  }
+  .dangnhap input {
+    width: 200px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 37px;
+    border: 1px solid coral;
+    padding-left: 20px;
+  }
+  .dangnhap button {
+    width: 205px;
+    height: 40px;
+    margin: 10px;
+    background-color: aquamarine;
+    color: white;
+    border-radius: 47px;
+  }
+  .dangnhap button:hover {
+    font-size: 19px;
+  }
+  .dangnhap .dangky .DK {
+    float: left;
+    margin: 15px;
+    font-style: initial;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  .dangnhap .dangky .QK {
+    float: right;
+    margin: 18px;
+    font-style: initial;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  .dangnhap .dangky .DK:hover {
+    font-size: 19px;
+  
+  
+  }
+  .dangnhap .dangky .QK:hover {
+    font-size: 16px;
+  }
+  .registration{
+    width: 322px;
+    height: 435px;
+    border: 2px solid grey;
+    border-radius: 23px;
+    text-align: center;
+  }
+  .registration h2{
+    color: #868787;
+    font-family: sans-serif;
+  }
+  .registration input{
+    width: 220px;
+    height: 37px;
+    margin-bottom: 21px;
+    border-radius: 33px;
+    border: 1px solid grey;
+    padding-left: 20px;
+  }
+  .registration button{
+    width: 224px;
+    height: 40px;
+    margin: 10px;
+    background-color: #45a049;
+    color: white;
+    border-radius: 37px;
+  }
+  .registration button:hover{
+    font-size: 20px;
+  }
+  td:nth-child(1){
+    width: 30%;
+    text-align: right;
+  }
+  td:nth-child(2){
+    width: 70%;
+    text-align: justify;
+    vertical-align: text-top;
+  }
+  .tieude {
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+  }
+  .tieude p{
+    font-size: larger;
+  }
